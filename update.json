@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "main": {
+    "link": "https://www.google.com",
+    "verString": "0.1rb Alpha (Unreleased)",
+    "text": "Changelog:\nwebMAN Menu has been rebuilt! Featuring a separate update/setup tool, this shortcut is now much faster while using fewer actions. A lot of the updater tech is built into the setup app, which takes a huge load of work off the main shortcut!"
+  },
+  "setup": {
+    "update": false
+  }
+}

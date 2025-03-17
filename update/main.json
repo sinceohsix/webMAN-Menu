@@ -1,6 +1,6 @@
 {
   "required": "true",
-  "verNumber": 1,
+  "version": 1,
   "verString": "0.1 (RB) Unreleased",
   "body": "This is mostly for testing the updater so yay if it works!",
   "link": "https://google.com"

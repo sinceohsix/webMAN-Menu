@@ -1,8 +1,8 @@
 {
-  "version": "1",
+  "version": "2",
   "main": {
     "link": "https://www.google.com",
-    "verString": "0.1-RB Alpha (1) (Unreleased)",
+    "verString": "0.2 Alpha (2-RB)",
     "text": "webMAN Menu has been rebuilt from the ground up! This new version runs up to 100% faster than the original version while having new features like:\n\n• Send to PS3 shortcut to easily send links and downloads to your PS3\n• New setup/updater shortcut for a better experience when setting up the shortcut or updating\n• Error codes have been added and can now help you solve any problems you may have much easier"
   },
   "sub": {

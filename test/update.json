@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "main": {
+    "link": "https://www.google.com",
+    "verString": "0.1-RB Alpha (1) (Unreleased)",
+    "text": "webMAN Menu has been rebuilt from the ground up! This new version runs up to 100% faster than the original version while having these features!"
+  },
+  "sub": {
+    "updateSetup": false,
+    "updateShare": false
+  }
+}

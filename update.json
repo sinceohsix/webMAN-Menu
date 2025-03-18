@@ -2,10 +2,15 @@
   "version": 1,
   "main": {
     "link": "https://www.google.com",
-    "verString": "0.1rb Alpha (Unreleased)",
-    "text": "Changelog:\nwebMAN Menu has been rebuilt! Featuring a separate update/setup tool, this shortcut is now much faster while using fewer actions. A lot of the updater tech is built into the setup app, which takes a huge load of work off the main shortcut!"
+    "verString": "0.1-RB Alpha (1) (Unreleased)",
+    "text": "webMAN Menu has been rebuilt from the ground up! This new version runs up to 100% faster than the original version while having new features like:
+
+• Send to PS3 shortcut to easily send links and downloads to your PS3
+• New setup/updater shortcut for a better experience when setting up the shortcut or updating
+• Error codes have been added and can now help you solve any problems you may have much easier"
   },
-  "setup": {
-    "update": false
+  "sub": {
+    "updateSetup": false,
+    "updateShare": false
   }
 }

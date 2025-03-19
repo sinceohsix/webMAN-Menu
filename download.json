@@ -1,0 +1,12 @@
+{
+  "shortcut": {
+    "path": "/shortcuts/",
+    "name": "webMAN Menu.shortcut",
+    "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/shortcuts/webMAN%20Menu%20TESTING.shortcut"
+  },
+  "main.vcf": {
+    "path": "/menu/",
+    "name": "main.vcf",
+    "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/menu/main.vcf"
+  }
+}

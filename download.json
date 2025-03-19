@@ -1,12 +1,17 @@
 {
-  "shortcut": {
+  "mainMenu": {
+    "path": "/menu/",
+    "name": "main.vcf",
+    "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/menu/main.vcf"
+  },
+  "mainShortcut": {
     "path": "/shortcuts/",
     "name": "webMAN Menu.shortcut",
     "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/shortcuts/webMAN%20Menu%20TESTING.shortcut"
   },
-  "main.vcf": {
-    "path": "/menu/",
-    "name": "main.vcf",
-    "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/menu/main.vcf"
+  "shareShortcut": {
+    "path": "/shortcuts/",
+    "name": "Share to PS3.shortcut",
+    "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/shortcuts/Share%20to%20PS3.shortcut"
   }
 }

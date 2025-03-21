@@ -7,7 +7,7 @@
   "shareMenu": {
     "path": "/menu/",
     "name": "share.vcf",
-    "url": ""
+    "url": "https://github.com/sinceohsix/webMAN-Menu/raw/refs/heads/main/menu/share.vcf"
   },
   "mainShortcut": {
     "path": "/shortcuts/",
